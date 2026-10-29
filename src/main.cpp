@@ -23,7 +23,7 @@ const int BL_PWM = 18;
 
 // Trasera Derecha (BR)
 const int BR_IN1 = 19;
-const int BR_IN2 = 23;j
+const int BR_IN2 = 23;
 const int BR_PWM = 13;
 
 // ==================== PINES Y VARIABLES DE SERVOS ====================
